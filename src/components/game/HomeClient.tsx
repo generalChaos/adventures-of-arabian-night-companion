@@ -129,6 +129,7 @@ export function HomeClient() {
             Requires Supabase + DATABASE_URL. See docs/tasks.md Phase 0.
           </p>
         )}
+        <footer>TEST</footer>
       </div>
     </main>
   );
