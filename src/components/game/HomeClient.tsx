@@ -129,6 +129,7 @@ export function HomeClient() {
             Requires Supabase + DATABASE_URL. See docs/tasks.md Phase 0.
           </p>
         )}
+        <footer className="text-sm text-[#cbb892]">TEST</footer>
       </div>
     </main>
   );
